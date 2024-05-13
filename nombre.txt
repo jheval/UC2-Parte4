@@ -1,10 +1,12 @@
-Jesús dni1 = 12456378
-Daniel dni2 = 12365478
-Fabiola dni3 = 25416398
-Jorge dni4 = 78965421
-Pedro dni5 = 45263189
-Sofia dni6 = 85236419
-Martha dni7 = 45698712
-Camila dni8 = 74586321
-Pablo dni9 = 96325874 
-Karen dni10 = 70231456
+Jesús
+Daniel
+Fabiola
+Jorge
+Pedro
+Sofia
+Martha
+Camila
+Pablo
+Karen
+jesus
+Victor

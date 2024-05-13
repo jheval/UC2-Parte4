@@ -1,10 +1,12 @@
-Flores dni1 = 12456378
-Herrera dni2 = 12365478
-Nole dni3 = 25416398
-Juarez dni4 = 78965421
-Jurado dni5 = 45263189
-Sanchez dni6 = 85236419
-Mesa dni7 = 45698712
-Leon dni8 = 74586321
-Baca dni9 = 96325874
-Villagaray dni10 = 70231456
+Flores
+Herrera
+Nole
+Juarez
+Jurado
+Sanchez
+Mesa
+Leon
+Baca
+Villagaray
+paye
+Ticona
